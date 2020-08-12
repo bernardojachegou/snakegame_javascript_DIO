@@ -19,6 +19,6 @@ This project was created during pandemic period of covid-19. Just for fun.
 
 ## :computer:    Running the project:
 
-
+https://bernardojachegou.github.io/snakegame_javascript_DIO/
 
 Created by Michel Bernardo :wave: [Contact](https://www.linkedin.com/in/bernardojachegou/)
